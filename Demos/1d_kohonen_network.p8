@@ -93,12 +93,12 @@ end
 --------------------------------
 
 function _init()
- network=create_kn(15)
+ network=create_kn(12)
 end
 
 function _update()
  pt=sample_from_space()
- train_kn(network,pt[1],pt[2],0.01)
+ train_kn(network,pt[1],pt[2],0.1)
 end
 
 function _draw()
