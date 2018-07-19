@@ -10,14 +10,14 @@ This a gallery of some of the demos I created for the [Pico-8](https://www.lexal
 
 [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](/Demos/10_print_chr.p8)
 
-![Samsara](/GIFs/samsara.gif)
+![Mandala](/GIFs/Mandala.gif)
 
-[Samsara](/Demos/samsara.p8)
+[Mandala](/Demos/mandala.p8)
 
-![Connections](/GIFs/connections.gif)
+![Connections](/GIFs/Connections.gif)
 
-[Connections](/Demos/connections.gif)
+[Connections](/Demos/connections.p8)
 
-![Fermat Spiral](/GIFs/fermat_spiral.gif)
+![Fermat Spiral](/GIFs/Fermat%20Spiral.gif)
 
-[Fermat Spiral](/Demos/fermat_spiral.gif)
+[Fermat Spiral](/Demos/fermat_spiral.p8)
