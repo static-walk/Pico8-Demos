@@ -21,3 +21,7 @@ This a gallery of some of the demos I created for the [Pico-8](https://www.lexal
 ![Fermat Spiral](/GIFs/Fermat%20Spiral.gif)
 
 [Fermat Spiral](/Demos/fermat_spiral.p8)
+
+![k-Means Clustering](/GIFs/K%20Means%20Clustering.gif)
+
+[k-Means Clustering](/Demos/k_means_clustering.gif)
