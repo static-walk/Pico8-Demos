@@ -24,4 +24,4 @@ This a gallery of some of the demos I created for the [Pico-8](https://www.lexal
 
 ![k-Means Clustering](/GIFs/K%20Means%20Clustering.gif)
 
-[k-Means Clustering](/Demos/k_means_clustering.gif)
+[k-Means Clustering](/Demos/k_means_clustering.p8)
